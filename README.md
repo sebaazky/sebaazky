@@ -1,148 +1,147 @@
 <div align="center">
 
-<!-- Banner animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sebastián%20Orellana&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Analista%20Programador%20Computacional&descAlignY=58&descSize=18&descColor=7dd3fc&animation=fadeIn" />
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:ff6b6b,30:feca57,60:48dbfb,100:ff9ff3&height=220&section=header&text=Sebastián%20Orellana&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=⟨%20Analista%20Programador%20/%3E&descAlignY=65&descSize=20&descColor=ffffff&animation=scaleIn)
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastian-orellana-dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:se.orellanapinto@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sebaazky)
+```
+╔═══════════════════════════════════════════════════════╗
+║  🚀  Transformando ideas en código desde Santiago 🇨🇱  ║
+╚═══════════════════════════════════════════════════════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=48DBFB&center=true&vCenter=true&width=600&lines=Desarrollador+Web+Junior+%F0%9F%92%BB;Amante+de+Python+%26+Django+%F0%9F%90%8D;Aprendiendo+Flutter+%F0%9F%93%B1;Construyendo+el+futuro+con+c%C3%B3digo+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-```python
-class SebastianOrellana:
-    nombre     = "Sebastián Paolo Orellana Pinto"
-    titulo     = "Analista Programador Computacional — DUOC UC"
-    ubicacion  = "Santiago, Chile 🇨🇱"
-    idiomas    = ["Español (nativo)", "Inglés (B1)", "Portugués (A2)"]
+### 🧬 `whoami`
 
-    def actualmente(self):
-        return {
-            "buscando"  : "Primera oportunidad como dev junior / trainee",
-            "aprendiendo": "Flutter & Dart 📱",
-            "enfoque"   : "Desarrollo web, bases de datos relacionales, calidad de software"
-        }
+```bash
+$ cat about_me.json
+{
+  "nombre": "Sebastián Paolo Orellana Pinto",
+  "alias": "sebaazky",
+  "rol": "Analista Programador Computacional",
+  "base": "Santiago, Chile 🌆",
+  "status": "🟢 Open to work",
+  "mision": "Construir software que resuelva
+             problemas reales con calidad",
+  "fun_fact": "También fui técnico de lab
+               clínico antes de pasarme al
+               lado oscuro del código 🧪→💻"
+}
+```
 
-    def fortalezas(self):
-        return ["Ciclo completo de desarrollo", "Ingeniería de requisitos",
-                "Trabajo en equipo", "Metodologías ágiles", "Mejora continua"]
+<br clear="right"/>
+
+---
+
+### ⚡ Mi universo tecnológico
+
+<div align="center">
+
+| 🧠 Backend | 🎨 Frontend | 🗄️ Datos | 🔧 DevOps |
+|:---:|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) | ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/-Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white) | ![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) | ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+
+</div>
+
+---
+
+### 🔥 Proyectos que me enorgullecen
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🧘  SISTEMA DE RESERVAS — ESTUDIO DE PILATES               │
+├─────────────────────────────────────────────────────────────┤
+│  Web app completa: autenticación, gestión de clases,        │
+│  panel admin y CI/CD automatizado con GitHub Actions        │
+│  Stack → Python · Django · JS · SQLite · HTML/CSS           │
+└─────────────────────────────────────────────────────────────┘
+```
+
+[![pilates](https://img.shields.io/badge/🔗_Ver_proyecto-ff6b6b?style=for-the-badge)](https://github.com/sebaazky/proyecto-pilates)
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🏛️  SISTEMA CITT — DUOC UC                                 │
+├─────────────────────────────────────────────────────────────┤
+│  Plataforma de gestión integral para el Centro de           │
+│  Innovación: proyectos, eventos, reportes PDF/Excel,        │
+│  notificaciones por mail y roles de usuario                 │
+│  Stack → Python · Django · Oracle SQL · JS                  │
+└─────────────────────────────────────────────────────────────┘
+```
+
+[![citt](https://img.shields.io/badge/🔗_Ver_proyecto-feca57?style=for-the-badge&logoColor=black)](https://github.com/sebaazky/Proyecto-Citt)
+
+</div>
+
+---
+
+### 📊 El panel de control
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sebaazky&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=feca57&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaazky&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=48dbfb&text_color=c9d1d9" height="170"/>
+
+</div>
+
+<div align="center">
+
+[![streak](https://streak-stats.demolab.com?user=sebaazky&theme=radical&hide_border=true&background=0d1117&ring=ff6b6b&fire=feca57&currStreakLabel=48dbfb)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### 🛤️ Mi camino hasta aquí
+
+```
+2016 ──► Técnico Lab. Clínico @ DUOC UC         🧪
+              │
+2023 ──► Giro total → Analista Programador      💡
+              │
+2025 ──► Práctica @ Macroactiva SpA             🏢
+         Django · Python · GitFlow
+              │
+2025 ──► Titulado DUOC UC                       🎓
+              │
+2025 ──► Proyecto Pilates (personal)            🚀
+              │
+2025 ──► Proyecto CITT (académico)              🏛️
+              │
+2026 ──► Aprendiendo Flutter & n8n              📱⚙️
+              │
+  ?  ──► Tu empresa aquí                        👀
 ```
 
 ---
 
-## 🛠️ Stack tecnológico
-
-### Lenguajes
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Frameworks & Web
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Bases de datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### DevOps & Calidad
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 🚀 Proyectos destacados
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧘 Sistema de Reservas — Pilates
-Aplicación web completa para gestión y reserva de clases. Incluye módulo de administración, autenticación de usuarios y pipeline CI/CD con GitHub Actions.
-
-**Tech:** `Python` `Django` `JavaScript` `SQLite`
-
-[![Repo](https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github)](https://github.com/sebaazky/proyecto-pilates)
-
-</td>
-<td width="50%">
-
-### 🏛️ Sistema CITT — DUOC UC
-Sistema web de gestión integral para el Centro de Innovación y Transferencia Tecnológica. Administración de proyectos, eventos, solicitudes y comunicaciones internas con reportes PDF/Excel.
-
-**Tech:** `Python` `Django` `Oracle SQL` `JavaScript`
-
-[![Repo](https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github)](https://github.com/sebaazky/Proyecto-Citt)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 Estadísticas GitHub
+### 🌐 Conecta conmigo
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sebaazky&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaazky&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastián%20Orellana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastian-orellana-dev)
+[![Gmail](https://img.shields.io/badge/Gmail-se.orellanapinto%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:se.orellanapinto@gmail.com)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sebaazky&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🎓 Formación & Certificaciones
-
-| Certificación | Institución | Año |
-|---|---|---|
-| 🎓 Analista Programador Computacional | DUOC UC — Puente Alto | 2023–2025 |
-| 📐 Análisis y desarrollo de modelos de datos | DUOC UC | 2024 |
-| 💻 Programación de software | DUOC UC | 2024 |
-| ✅ Calidad de software | DUOC UC | 2024 |
-| 🏗️ Arquitectura de software | DUOC UC | 2024 |
-| 📋 Análisis y planificación de requerimientos | DUOC UC | 2024 |
-
----
-
-## 💼 Experiencia
-
-**Desarrollador Web Junior — Práctica Profesional**
-🏢 *Macroactiva SpA* · Santiago · Abril–Junio 2025
-
-- Análisis y levantamiento de requerimientos funcionales con equipo cliente
-- Diseño de modelo de datos relacional y desarrollo de módulos backend con Django
-- Control de versiones con Git y GitFlow en flujo colaborativo
-
----
-
-<div align="center">
-
-### 🌱 Actualmente aprendiendo
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=sebaazky.sebaazky&left_color=ff6b6b&right_color=feca57)
 
 </div>
 
@@ -150,8 +149,6 @@ Sistema web de gestión integral para el Centro de Innovación y Transferencia T
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" />
-
-*"El software es una gran combinación entre arte e ingeniería."* — Bill Gates
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff9ff3,50:48dbfb,100:feca57&height=130&section=footer&animation=fadeIn)
 
 </div>
